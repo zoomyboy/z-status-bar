@@ -1,6 +1,6 @@
 {
   "name": "z-status-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Status Bar as a Vue component",
   "main": "index.js",
   "scripts": {
